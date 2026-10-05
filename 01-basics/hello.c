@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("This is start of a journey.");
+    printf("This is the start of a journey.");
     return 0;
 }
