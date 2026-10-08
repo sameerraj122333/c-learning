@@ -8,4 +8,5 @@ I document everyday progress in the journal.
 The folders are named as per the chapters. Each chapter contains examples and projects which are named as per the following convention:
 
 e#_filename - e denotes example, # is the number of the exercise, and filename indicates what program is contained in the file
+
 p#_filename - p denotes project, # is the number of the project, and filename indicates what program is contained in the file
