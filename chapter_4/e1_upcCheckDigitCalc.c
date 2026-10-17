@@ -7,7 +7,8 @@ int main(void)
     int a, b, c, d, e, f, g, h, i, j, k, checkDigit;
 
     printf("Enter the UPC: ");
-    scanf("%1d %1d %1d %1d %1d %1d %1d %1d %1d %1d %1d", &a, &b, &c, &d, &e, &f, &g, &h, &i, &j, &k);
+    scanf("%1d %1d %1d %1d %1d %1d %1d %1d %1d %1d %1d", 
+        &a, &b, &c, &d, &e, &f, &g, &h, &i, &j, &k);
 
     checkDigit = 9 - ((((3 * (a + c + e + g + i + k)) + (b + d + f + h + j)) - 1) % 10);
 
