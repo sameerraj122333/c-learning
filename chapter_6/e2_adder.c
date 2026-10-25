@@ -1,4 +1,4 @@
-// Adds the numvers entered by the user.
+// Adds the numbers entered by the user.
 
 #include<stdio.h>
 
